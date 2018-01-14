@@ -1,0 +1,11 @@
+<aura:component  implements="force:appHostable">
+
+<div class="slds-grid slds-gutters">
+  <div class="slds-col slds-size_2-of-3">
+  <c:RepSummary/>
+  </div>
+  <div class="slds-col slds-size_1-of-3">
+ <c:OppSummary />
+  </div>
+</div>
+</aura:component>	

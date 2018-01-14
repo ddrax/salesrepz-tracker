@@ -1,0 +1,14 @@
+<aura:component controller="OppController" implements="force:appHostable">
+
+    <aura:attribute name="opps" type="Opportunity[]"/>
+    <aura:handler event="c:SalesRepChange" action="{!c.salesRepSelected}"/>
+<lightning:layout horizontalAlign="left" multipleRows="true">
+<aura:iteration items="{!v.opps}" var="opp">
+            <lightning:layoutItem padding="around-small" size="12" smallDeviceSize="6" mediumDeviceSize="4" largeDeviceSize="3">
+            <c:OppSummaryItem opp="{!opp}"/>
+            </lightning:layoutItem>    
+    </aura:iteration>
+    
+
+	</lightning:layout>
+</aura:component>	

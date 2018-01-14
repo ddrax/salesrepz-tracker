@@ -1,0 +1,16 @@
+<aura:component implements="force:appHostable">
+  <aura:attribute name="rep" type="SalesReps__c"/>
+  <aura:attribute name="recordId" type="String" />
+
+<lightning:card>
+
+    <p class="slds-p-horizontal_small">
+           <div class="slds-media__figure">
+  <li><a onclick="{!c.getRepDetails}" value="{!v.rep.Id}">{!v.rep.Name}</a></li>
+
+            <img  src="{!v.rep.ProfilePic__c}" />
+                  </div>
+        </p>
+    </lightning:card>
+
+</aura:component>
