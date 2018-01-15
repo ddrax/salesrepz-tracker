@@ -1,13 +1,23 @@
 <aura:component implements="force:appHostable">
   <aura:attribute name="opp" type="Opportunity"/>
+  <aura:attribute name="stageName" type="String"/>
 
 <lightning:card >
 
     <p class="slds-p-horizontal_small">
            <div class="slds-media__figure">
 <img  src="{!v.opp.CompanyLogo__c}"/>
+
+<div class="slds-align_absolute-center">
+
+    <lightning:icon class="oppStatus" iconName="{!v.opp.StageName == 'Closed Won' ? 'action:approval' : 'action:close'}" size="small" alternativeText="Indicates approval"/>
+
+</div>
+
                   </div>
                   </p>
+
+
     </lightning:card>
 
 

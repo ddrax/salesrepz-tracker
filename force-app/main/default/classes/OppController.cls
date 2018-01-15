@@ -12,7 +12,7 @@ public with sharing class OppController {
         System.debug('In function...');
         System.debug('rep' + repName);
 
-        List<Opportunity>allOpps = [SELECT Id,Name,Sales_Rep__c,CompanyLogo__c FROM Opportunity WHERE Sales_Rep__c = : repName AND StageName = 'Closed Won'];
+        List<Opportunity>allOpps = [SELECT Id,Name,Sales_Rep__c,CompanyLogo__c,StageName FROM Opportunity WHERE Sales_Rep__c = : repName];
 
         System.debug(allOpps);
 
