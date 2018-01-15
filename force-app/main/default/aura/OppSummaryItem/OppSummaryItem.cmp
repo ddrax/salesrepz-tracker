@@ -3,11 +3,11 @@
 
 <lightning:card >
 
-    <p class="slds-p-horizontal_small"@ >
+    <p class="slds-p-horizontal_small">
            <div class="slds-media__figure">
 <img  src="{!v.opp.CompanyLogo__c}"/>
                   </div>
-        </p>
+                  </p>
     </lightning:card>
 
 

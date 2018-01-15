@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "defaultusername": "dev001"
+=======
+    "defaultusername": "SalesRepzScratch",
+    "defaultdevhubusername": "myhub"
+>>>>>>> d944e4fc5d3547042406e92b4b4621ee8c61aa4b
 }
