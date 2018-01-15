@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "FodFin",
+            "Company_Logo__c": "http://kantoorschram.dbsmediahost.be/wp-content/uploads/2016/03/FOD.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "AB inbev",
+            "Company_Logo__c": "https://media-exp1.licdn.com/media/AAIA_wDGAAAAAQAAAAAAAAzXAAAAJGEyYmM3NzcxLWJmOTUtNDUxNC04OGMxLWQ4N2RkZDgxNTJlMQ.png"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Heineken",
+            "Company_Logo__c": "https://www.festisite.nl/static/partylogo/img/logos/heineken.png"
+        }
+    ]
+}

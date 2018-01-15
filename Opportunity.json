@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef1"
+            },
+            "Name": "Heineken",
+            "CloseDate": "2018-01-12",
+            "StageName": "Closed Won"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef2"
+            },
+            "Name": "ABInbev Leuven",
+            "CloseDate": "2018-01-12",
+            "StageName": "Closed Won"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef3"
+            },
+            "Name": "FODFIN",
+            "CloseDate": "2018-01-31",
+            "StageName": "Closed Lost"
+        }
+    ]
+}

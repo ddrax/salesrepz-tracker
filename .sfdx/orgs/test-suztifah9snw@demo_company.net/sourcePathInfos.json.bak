@@ -1,0 +1,1682 @@
+[
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956651581,
+            "changeTime": 1515956651581,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956651587,
+            "changeTime": 1515956651587,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516004557014,
+            "changeTime": 1516004557014,
+            "contentHash": "8cc4bdd4fb5806950e63fe009e8c73d28c5b19ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515750618416,
+            "changeTime": 1515750618416,
+            "contentHash": "0526a3f53cf5a62790de54736af179beaa22100b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515749677472,
+            "changeTime": 1515749677472,
+            "contentHash": "26a3a0d0e1eccd78faf96b63533687b834f934ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1515749677469,
+            "changeTime": 1515749677469,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 596,
+            "modifiedTime": 1515946176000,
+            "changeTime": 1515946176558,
+            "contentHash": "99fec87e8ac7b512d19408107f03562f66eea125",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1515749677428,
+            "changeTime": 1515749677428,
+            "contentHash": "92462d104c2961e2d5d919fa88c5c7ed02449432",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1515768173000,
+            "changeTime": 1515768173992,
+            "contentHash": "579b87c7a919b954ff62f1f28c2b20be3610eace",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1515749677474,
+            "changeTime": 1515749677474,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummary.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1515749677460,
+            "changeTime": 1515749677460,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummaryController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummaryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 491,
+            "modifiedTime": 1515760043743,
+            "changeTime": 1515760043743,
+            "contentHash": "7d1cb2bfb6404a244897f2bbb8a9479da5a8667a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummaryHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummaryHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1515749677440,
+            "changeTime": 1515749677440,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummaryRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummary\\OppSummaryRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1515749677454,
+            "changeTime": 1515749677454,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516004557018,
+            "changeTime": 1516004557018,
+            "contentHash": "c6325a371d7d6310cea646cb3082a0e2d8628a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1515749699899,
+            "changeTime": 1515749699899,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 344,
+            "modifiedTime": 1516004712000,
+            "changeTime": 1516004712847,
+            "contentHash": "fe11b922ef7f6eb091915a65447d00e4aeaed97b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1515749699862,
+            "changeTime": 1515749699862,
+            "contentHash": "522f0e06a227f79dd96efd5964b0d34905777a69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 261,
+            "modifiedTime": 1515956651605,
+            "changeTime": 1515956651605,
+            "contentHash": "a900702c2c435ee8777908cdf1d871135752d72d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1515749699905,
+            "changeTime": 1515749699905,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1515749699895,
+            "changeTime": 1515749699895,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1515756877000,
+            "changeTime": 1515756877087,
+            "contentHash": "60778da2147cf940d09683a44c3c5b5ae42ebc1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1515749699880,
+            "changeTime": 1515749699880,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1515749699890,
+            "changeTime": 1515749699890,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515596073768,
+            "changeTime": 1515596073768,
+            "contentHash": "134d01ce2c3b29a9ca066a999de047a981fdb208",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1515596073765,
+            "changeTime": 1515596073765,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 726,
+            "modifiedTime": 1515688097000,
+            "changeTime": 1515688097404,
+            "contentHash": "f1802830a2cf58d673623131742b5ee012b5891a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1515596073732,
+            "changeTime": 1515596073732,
+            "contentHash": "3c2d43d0db5e43580f5e92f6204ba6f3bbc43dce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1515601566000,
+            "changeTime": 1515601566030,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1515596073770,
+            "changeTime": 1515596073770,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummary.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1515596073760,
+            "changeTime": 1515596073760,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummaryController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummaryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 600,
+            "modifiedTime": 1515750884924,
+            "changeTime": 1515750884924,
+            "contentHash": "9278af016c60eff603146a1af6f4d2dc6164cc34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummaryHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummaryHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1515596073744,
+            "changeTime": 1515596073744,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummaryRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummary\\RepSummaryRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1515596073755,
+            "changeTime": 1515596073755,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515598242309,
+            "changeTime": 1515598242309,
+            "contentHash": "0585402288e31a8ceb6c20c425cb2556a4343641",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1515598242305,
+            "changeTime": 1515598242305,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 463,
+            "modifiedTime": 1515764892000,
+            "changeTime": 1515764892763,
+            "contentHash": "0e174c3e436d99519aa76540c25590566d13339b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1515598242269,
+            "changeTime": 1515598242269,
+            "contentHash": "4e6b86cd4c1b7625fb0c18c0e9731931eb79f6cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1515601330513,
+            "changeTime": 1515601330513,
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1515598242311,
+            "changeTime": 1515598242311,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1515598242300,
+            "changeTime": 1515598242300,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItemController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 484,
+            "modifiedTime": 1515759523000,
+            "changeTime": 1515759523731,
+            "contentHash": "2ae8e16111a47478991cd46a0ea959c7d4faaee6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItemHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1515598242283,
+            "changeTime": 1515598242283,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItemRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\RepSummaryItem\\RepSummaryItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1515598242295,
+            "changeTime": 1515598242295,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepChange",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepChange",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515750618427,
+            "changeTime": 1515750618427,
+            "contentHash": "715da09485a173944c6a568090b3f5bff03eb07a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepChange\\SalesRepChange.evt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepChange\\SalesRepChange.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 129,
+            "modifiedTime": 1515750718000,
+            "changeTime": 1515750718864,
+            "contentHash": "66ac661df72b656df36f0026678f478beaef93ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepChange\\SalesRepChange.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepChange\\SalesRepChange.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1515750618429,
+            "changeTime": 1515750618429,
+            "contentHash": "02e31bfc585d2d30d2ff35184ef9429257fe47af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515662263539,
+            "changeTime": 1515662263539,
+            "contentHash": "46a880d1bd39f7c74eeb54e2e2369b081c5d9403",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1515662263535,
+            "changeTime": 1515662263535,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 251,
+            "modifiedTime": 1515754619000,
+            "changeTime": 1515754619011,
+            "contentHash": "bfcb04e22f52cb6bd5e27267525307484b4cecdb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1515662263496,
+            "changeTime": 1515662263496,
+            "contentHash": "f3e674f2867c09b6d338ab64d80aebf7102408d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1515662263519,
+            "changeTime": 1515662263519,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1515662263541,
+            "changeTime": 1515662263541,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTracker.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1515662263530,
+            "changeTime": 1515662263530,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTrackerController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTrackerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1515662263508,
+            "changeTime": 1515662263508,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTrackerHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTrackerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1515662263513,
+            "changeTime": 1515662263513,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTrackerRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SalesRepTracker\\SalesRepTrackerRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1515662263525,
+            "changeTime": 1515662263525,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515683532408,
+            "changeTime": 1515683532408,
+            "contentHash": "1b461086da697f9f5df6c4692ef123e20e287772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1515683532405,
+            "changeTime": 1515683532405,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 176,
+            "modifiedTime": 1515683724000,
+            "changeTime": 1515683724929,
+            "contentHash": "0169d4359f3a529fe2dfab0bcfaecf15cd4963df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1515683532370,
+            "changeTime": 1515683532370,
+            "contentHash": "fb87dd8b8ed4ea1f35e5713e227ca41d7e9e5adb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 157,
+            "modifiedTime": 1515684138000,
+            "changeTime": 1515684138287,
+            "contentHash": "18192b53e93e7cb2ff713d6179a3f4016c7d8331",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1515683532410,
+            "changeTime": 1515683532410,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBar.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1515683532399,
+            "changeTime": 1515683532399,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBarController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBarController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 208,
+            "modifiedTime": 1515688339000,
+            "changeTime": 1515688339422,
+            "contentHash": "ac5fbddec50272d9146fcb769a3a169bd0797d42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBarHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBarHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1515683532380,
+            "changeTime": 1515683532380,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBarRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchBar\\SearchBarRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1515683532392,
+            "changeTime": 1515683532392,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchKeyChange",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchKeyChange",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515683615356,
+            "changeTime": 1515683615356,
+            "contentHash": "c58dd08310f18c5c0e6e261ae21832b9ddbd658f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchKeyChange\\SearchKeyChange.evt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchKeyChange\\SearchKeyChange.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 129,
+            "modifiedTime": 1515687570000,
+            "changeTime": 1515687570017,
+            "contentHash": "f24ee27234a90f948b427f8f0343707604fba810",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchKeyChange\\SearchKeyChange.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\SearchKeyChange\\SearchKeyChange.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1515683615358,
+            "changeTime": 1515683615358,
+            "contentHash": "b62810c1724cff9814f79abc05c743ed1dae4fe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515598324178,
+            "changeTime": 1515598324178,
+            "contentHash": "6a1fe0f04bcf0b45b5c9613fe26306a8d782af16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\OppController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\OppController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 590,
+            "modifiedTime": 1515770550000,
+            "changeTime": 1515770550232,
+            "contentHash": "481ba9220318782b18eb8d9203a5c0456a9b9b35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\OppController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\OppController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1515595899246,
+            "changeTime": 1515595899246,
+            "contentHash": "0c9e2bbea18d3809db43fe50adb4326698b95097",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\RepController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\RepController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 508,
+            "modifiedTime": 1515760476000,
+            "changeTime": 1515760476812,
+            "contentHash": "fea94dcfb9c5dad0ca8622d0822c5eb6c0c232f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\RepController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\RepController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1515598324181,
+            "changeTime": 1515598324181,
+            "contentHash": "c1eb2418056857379e1176e86038ac5dd857bf7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547422,
+            "changeTime": 1515956547422,
+            "contentHash": "d896e9a6a94ac41543ccd8e76e0c10e1e9b61c09",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9760,
+            "modifiedTime": 1515956547402,
+            "changeTime": 1515956547402,
+            "contentHash": "e962dab0cd2cf88d0e0671dc837eb2651dbfa8dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9712,
+            "modifiedTime": 1515956547238,
+            "changeTime": 1515956547238,
+            "contentHash": "4b0a1e2df525dfae902a5eb28c5e00f9f7673c19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9760,
+            "modifiedTime": 1515956547213,
+            "changeTime": 1515956547213,
+            "contentHash": "f6b99a0dfa740fa14d41dd8e661c383f7fa9579d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9712,
+            "modifiedTime": 1515956547259,
+            "changeTime": 1515956547259,
+            "contentHash": "1580df99d0ae75660db88bcf01d25540e462b0d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8758,
+            "modifiedTime": 1515956547177,
+            "changeTime": 1515956547177,
+            "contentHash": "d01ec50da973cf9241cdfa2b42300a678117dd09",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8718,
+            "modifiedTime": 1515956547348,
+            "changeTime": 1515956547348,
+            "contentHash": "de31c07fa7d07c3e6b29999bf7f3df5c83a4bd21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8621,
+            "modifiedTime": 1515956547297,
+            "changeTime": 1515956547297,
+            "contentHash": "6d8d23632ca54f56ce1be6c99deb703a1faa980d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8710,
+            "modifiedTime": 1515956547430,
+            "changeTime": 1515956547430,
+            "contentHash": "0e5a32ce071aa0cbf89790b00f667121fcfb3ed3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\SalesReps__c-SalesRep Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\SalesReps__c-SalesRep Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2314,
+            "modifiedTime": 1515956547316,
+            "changeTime": 1515956547316,
+            "contentHash": "91d367807ea863ecf9bb24785cb4d979b123b418",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547140,
+            "changeTime": 1515956547140,
+            "contentHash": "9194cab4180c4480e64994664079a13a52d0929c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547084,
+            "changeTime": 1515956547084,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547090,
+            "changeTime": 1515956547090,
+            "contentHash": "44cc771011198e819b2cdbe477ae81dc696b7509",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields\\Company_Logo__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields\\Company_Logo__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 323,
+            "modifiedTime": 1515956547091,
+            "changeTime": 1515956547091,
+            "contentHash": "531aaba7285ad6f4c509a07c5e3a7962a69aefaa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547141,
+            "changeTime": 1515956547141,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547147,
+            "changeTime": 1515956547147,
+            "contentHash": "0fdadcf11dcde1e008e1745c9773a4cab6b3095d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\CompanyLogo__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\CompanyLogo__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 451,
+            "modifiedTime": 1515956547145,
+            "changeTime": 1515956547145,
+            "contentHash": "2fda7bfb85170ec39361e2a92b83e3f4547bbb3d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\Sales_Rep__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\Sales_Rep__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 566,
+            "modifiedTime": 1515956547149,
+            "changeTime": 1515956547149,
+            "contentHash": "6b43fbeabfde62f884912f7d226d063470409766",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547122,
+            "changeTime": 1515956547122,
+            "contentHash": "ba7fee96a95fefdc5b2795221e10ca33952990bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547124,
+            "changeTime": 1515956547124,
+            "contentHash": "e459a3d29cae0d2db27b18cd64bae09f7a5b6e48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields\\ProfilePic__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields\\ProfilePic__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 313,
+            "modifiedTime": 1515956547126,
+            "changeTime": 1515956547126,
+            "contentHash": "d9ad8874050f4ecd192b77a617a6d5526b45b8e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\SalesReps__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\SalesReps__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2138,
+            "modifiedTime": 1515956547121,
+            "changeTime": 1515956547121,
+            "contentHash": "a2113c47295ca9e029c7b553ba59cb1f9c963dae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547563,
+            "changeTime": 1515956547563,
+            "contentHash": "8ab4c9055f3fc52220843a462925129acd832474",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets\\Salesreps.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets\\Salesreps.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1314,
+            "modifiedTime": 1515956547565,
+            "changeTime": 1515956547565,
+            "contentHash": "a9a8b926c6aebaad02ab1d121176cf1e9b2adbf0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547554,
+            "changeTime": 1515956547554,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18803,
+            "modifiedTime": 1515956547556,
+            "changeTime": 1515956547556,
+            "contentHash": "74f08a7e147c2b5502f2cabaf1bd44e992e885a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5804,
+            "modifiedTime": 1515956547529,
+            "changeTime": 1515956547529,
+            "contentHash": "9087c3620ed0b7ef3dc750ae35c3d2f3de287bd6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5796,
+            "modifiedTime": 1515956547492,
+            "changeTime": 1515956547492,
+            "contentHash": "4f6aab8100208c5ac392b0b308d445ba011e000a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6138,
+            "modifiedTime": 1515956547507,
+            "changeTime": 1515956547507,
+            "contentHash": "71e78f23db7ef3dd7dbdacbb05ce65f943285530",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547574,
+            "changeTime": 1515956547574,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2300,
+            "modifiedTime": 1515956547575,
+            "changeTime": 1515956547575,
+            "contentHash": "8ab60fe89472be4feea6d9801bdcfbacd16b757e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547471,
+            "changeTime": 1515956547471,
+            "contentHash": "959cf9ce0d0bb014c106ede149bcef2173d7bf84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\RepSummary.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\RepSummary.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 261,
+            "modifiedTime": 1515956547465,
+            "changeTime": 1515956547465,
+            "contentHash": "5171ba2605010837af50342aac06c4a1fc0e1a50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\SalesReps__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\SalesReps__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1515956547451,
+            "changeTime": 1515956547451,
+            "contentHash": "75215d73ba88fdbc03728d0e663651a057b2b7a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\Sales_Tracker.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\Sales_Tracker.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1515956547440,
+            "changeTime": 1515956547440,
+            "contentHash": "21fd7eb080837b2ca226aac8c6790c74584d7fb4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\test.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\test.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1515956547473,
+            "changeTime": 1515956547473,
+            "contentHash": "85ed5d657a50c82adeb8cfcef55e2569b054b984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516004556964,
+            "changeTime": 1516004556964,
+            "contentHash": "93a569f6ca982df8f7f5b13c87be120f25d70b46",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

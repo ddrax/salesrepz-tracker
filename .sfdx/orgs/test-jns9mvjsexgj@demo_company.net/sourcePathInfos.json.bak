@@ -32,16 +32,14 @@
     [
         "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1515595899109,
-            "changeTime": 1515595899109,
-            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1515956547571,
+            "changeTime": 1515956547571,
+            "contentHash": "eee7ca4d1480580f7579dd4e2e1e11a5a1f33db8"
         }
     ],
     [
@@ -370,15 +368,15 @@
     [
         "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\OppController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\classes\\OppController.cls",
             "isDirectory": false,
+            "size": 590,
+            "modifiedTime": 1515770550000,
+            "changeTime": 1515770550232,
+            "contentHash": "481ba9220318782b18eb8d9203a5c0456a9b9b35",
             "isMetadataFile": false,
-            "size": 571,
-            "modifiedTime": 1515770081968,
-            "changeTime": 1515770081968,
-            "isWorkspace": false,
-            "contentHash": "fd7fe2d0089f28e74b1ee9db9a522c8a429f6ec2"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -911,14 +909,14 @@
     [
         "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.cmp",
             "isDirectory": false,
+            "size": 321,
+            "modifiedTime": 1515770403311,
+            "changeTime": 1515770403311,
+            "contentHash": "081a13d3d2c252b0499674fde8de7fea8ba60375",
             "isMetadataFile": false,
-            "size": 333,
-            "modifiedTime": 1515770250000,
-            "changeTime": 1515770250939,
-            "contentHash": "7a0bb83354817fb3667247a55c718e25ff41004b"
+            "state": "u"
         }
     ],
     [
@@ -937,14 +935,14 @@
     [
         "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItem.css",
             "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1515770537000,
+            "changeTime": 1515770537370,
+            "contentHash": "f4bd5e625e49498579c63058282d7a7679434616",
             "isMetadataFile": false,
-            "size": 264,
-            "modifiedTime": 1515770222000,
-            "changeTime": 1515770222361,
-            "contentHash": "f6be05f9df3efd24c72715d9ae94c2b658c88f21"
+            "state": "u"
         }
     ],
     [
@@ -1036,6 +1034,474 @@
             "contentHash": "02e31bfc585d2d30d2ff35184ef9429257fe47af",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields\\Company_Logo__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields\\Company_Logo__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 323,
+            "modifiedTime": 1515956547091,
+            "changeTime": 1515956547091,
+            "contentHash": "531aaba7285ad6f4c509a07c5e3a7962a69aefaa"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\SalesReps__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\SalesReps__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2138,
+            "modifiedTime": 1515956547121,
+            "changeTime": 1515956547121,
+            "contentHash": "a2113c47295ca9e029c7b553ba59cb1f9c963dae"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields\\ProfilePic__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields\\ProfilePic__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 313,
+            "modifiedTime": 1515956547126,
+            "changeTime": 1515956547126,
+            "contentHash": "d9ad8874050f4ecd192b77a617a6d5526b45b8e0"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\CompanyLogo__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\CompanyLogo__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 451,
+            "modifiedTime": 1515956547145,
+            "changeTime": 1515956547145,
+            "contentHash": "2fda7bfb85170ec39361e2a92b83e3f4547bbb3d"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\Sales_Rep__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields\\Sales_Rep__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 566,
+            "modifiedTime": 1515956547149,
+            "changeTime": 1515956547149,
+            "contentHash": "6b43fbeabfde62f884912f7d226d063470409766"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8758,
+            "modifiedTime": 1515956547177,
+            "changeTime": 1515956547177,
+            "contentHash": "d01ec50da973cf9241cdfa2b42300a678117dd09"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9760,
+            "modifiedTime": 1515956547213,
+            "changeTime": 1515956547213,
+            "contentHash": "f6b99a0dfa740fa14d41dd8e661c383f7fa9579d"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9712,
+            "modifiedTime": 1515956547238,
+            "changeTime": 1515956547238,
+            "contentHash": "4b0a1e2df525dfae902a5eb28c5e00f9f7673c19"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9712,
+            "modifiedTime": 1515956547259,
+            "changeTime": 1515956547259,
+            "contentHash": "1580df99d0ae75660db88bcf01d25540e462b0d8"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8621,
+            "modifiedTime": 1515956547297,
+            "changeTime": 1515956547297,
+            "contentHash": "6d8d23632ca54f56ce1be6c99deb703a1faa980d"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\SalesReps__c-SalesRep Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\SalesReps__c-SalesRep Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2314,
+            "modifiedTime": 1515956547316,
+            "changeTime": 1515956547316,
+            "contentHash": "91d367807ea863ecf9bb24785cb4d979b123b418"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8718,
+            "modifiedTime": 1515956547348,
+            "changeTime": 1515956547348,
+            "contentHash": "de31c07fa7d07c3e6b29999bf7f3df5c83a4bd21"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9760,
+            "modifiedTime": 1515956547402,
+            "changeTime": 1515956547402,
+            "contentHash": "e962dab0cd2cf88d0e0671dc837eb2651dbfa8dd"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8710,
+            "modifiedTime": 1515956547430,
+            "changeTime": 1515956547430,
+            "contentHash": "0e5a32ce071aa0cbf89790b00f667121fcfb3ed3"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\Sales_Tracker.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\Sales_Tracker.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1515956547440,
+            "changeTime": 1515956547440,
+            "contentHash": "21fd7eb080837b2ca226aac8c6790c74584d7fb4"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\SalesReps__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\SalesReps__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1515956547451,
+            "changeTime": 1515956547451,
+            "contentHash": "75215d73ba88fdbc03728d0e663651a057b2b7a1"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\RepSummary.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\RepSummary.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 261,
+            "modifiedTime": 1515956547465,
+            "changeTime": 1515956547465,
+            "contentHash": "5171ba2605010837af50342aac06c4a1fc0e1a50"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\test.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs\\test.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1515956547473,
+            "changeTime": 1515956547473,
+            "contentHash": "85ed5d657a50c82adeb8cfcef55e2569b054b984"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5796,
+            "modifiedTime": 1515956547492,
+            "changeTime": 1515956547492,
+            "contentHash": "4f6aab8100208c5ac392b0b308d445ba011e000a"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6138,
+            "modifiedTime": 1515956547507,
+            "changeTime": 1515956547507,
+            "contentHash": "71e78f23db7ef3dd7dbdacbb05ce65f943285530"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5804,
+            "modifiedTime": 1515956547529,
+            "changeTime": 1515956547529,
+            "contentHash": "9087c3620ed0b7ef3dc750ae35c3d2f3de287bd6"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18803,
+            "modifiedTime": 1515956547556,
+            "changeTime": 1515956547556,
+            "contentHash": "74f08a7e147c2b5502f2cabaf1bd44e992e885a4"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets\\Salesreps.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets\\Salesreps.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1314,
+            "modifiedTime": 1515956547565,
+            "changeTime": 1515956547565,
+            "contentHash": "a9a8b926c6aebaad02ab1d121176cf1e9b2adbf0"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2300,
+            "modifiedTime": 1515956547575,
+            "changeTime": 1515956547575,
+            "contentHash": "8ab60fe89472be4feea6d9801bdcfbacd16b757e"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547090,
+            "changeTime": 1515956547090,
+            "contentHash": "44cc771011198e819b2cdbe477ae81dc696b7509"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547084,
+            "changeTime": 1515956547084,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547140,
+            "changeTime": 1515956547140,
+            "contentHash": "9194cab4180c4480e64994664079a13a52d0929c"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547122,
+            "changeTime": 1515956547122,
+            "contentHash": "ba7fee96a95fefdc5b2795221e10ca33952990bf"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\SalesReps__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547124,
+            "changeTime": 1515956547124,
+            "contentHash": "e459a3d29cae0d2db27b18cd64bae09f7a5b6e48"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547147,
+            "changeTime": 1515956547147,
+            "contentHash": "0fdadcf11dcde1e008e1745c9773a4cab6b3095d"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547141,
+            "changeTime": 1515956547141,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547422,
+            "changeTime": 1515956547422,
+            "contentHash": "d896e9a6a94ac41543ccd8e76e0c10e1e9b61c09"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547471,
+            "changeTime": 1515956547471,
+            "contentHash": "959cf9ce0d0bb014c106ede149bcef2173d7bf84"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547554,
+            "changeTime": 1515956547554,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547563,
+            "changeTime": 1515956547563,
+            "contentHash": "8ab4c9055f3fc52220843a462925129acd832474"
+        }
+    ],
+    [
+        "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515956547574,
+            "changeTime": 1515956547574,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
         }
     ]
 ]
