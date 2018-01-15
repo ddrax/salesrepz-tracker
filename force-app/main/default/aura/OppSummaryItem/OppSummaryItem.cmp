@@ -6,7 +6,10 @@
 
     <p class="slds-p-horizontal_small">
            <div class="slds-media__figure">
-<img  src="{!v.opp.CompanyLogo__c}"/>
+               <lightning:overlayLibrary aura:id="overlayLib"/>
+    <lightning:button name="modal" label="Details" onclick="{!c.handleShowModal}"/>
+
+<img  onclick="c.handleShowModal" src="{!v.opp.CompanyLogo__c}"/>
 
 <div class="slds-align_absolute-center">
 

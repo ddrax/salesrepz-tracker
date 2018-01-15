@@ -1,0 +1,5 @@
+<aura:component>
+  <aura:attribute name="opp" type="Opportunity"/>
+    <lightning:icon size="medium" iconName="standard:timesheet" alternativeText="Approved" />
+    Your application has been approved.
+</aura:component>
