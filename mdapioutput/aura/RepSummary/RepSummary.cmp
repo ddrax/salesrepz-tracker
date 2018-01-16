@@ -1,0 +1,19 @@
+<aura:component controller="RepController" implements="force:appHostable">
+
+    <aura:attribute name="reps" type="SalesReps__c[]"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    <aura:handler event="c:SearchKeyChange" action="{!c.searchKeyChange}"/>
+
+    <lightning:layout horizontalAlign="left" multipleRows="true">
+                <c:SearchBar />
+
+<aura:iteration items="{!v.reps}" var="rep">
+            <lightning:layoutItem padding="around-small" size="12" smallDeviceSize="6" mediumDeviceSize="4" largeDeviceSize="3">
+        <c:RepSummaryItem rep="{!rep}" recordId="{!rep.Id}"/>
+            </lightning:layoutItem>    
+    </aura:iteration>
+	</lightning:layout>
+    
+    
+
+</aura:component>

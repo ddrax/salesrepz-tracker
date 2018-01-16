@@ -5,9 +5,10 @@
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef1"
             },
-            "Name": "Heineken",
-            "CloseDate": "2018-01-12",
-            "StageName": "Closed Won"
+            "Name": "FODFIN",
+            "Amount": 300000,
+            "CompanyLogo__c": "http://kantoorschram.dbsmediahost.be/wp-content/uploads/2016/03/FOD.jpg",
+            "StageName": "Closed Lost"
         },
         {
             "attributes": {
@@ -15,7 +16,8 @@
                 "referenceId": "OpportunityRef2"
             },
             "Name": "ABInbev Leuven",
-            "CloseDate": "2018-01-12",
+            "Amount": 900000,
+            "CompanyLogo__c": "https://media-exp1.licdn.com/media/AAIA_wDGAAAAAQAAAAAAAAzXAAAAJGEyYmM3NzcxLWJmOTUtNDUxNC04OGMxLWQ4N2RkZDgxNTJlMQ.png",
             "StageName": "Closed Won"
         },
         {
@@ -23,9 +25,10 @@
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef3"
             },
-            "Name": "FODFIN",
-            "CloseDate": "2018-01-31",
-            "StageName": "Closed Lost"
+            "Name": "Heineken",
+            "Amount": 400000,
+            "CompanyLogo__c": "https://www.festisite.nl/static/partylogo/img/logos/heineken.png",
+            "StageName": "Closed Won"
         }
     ]
 }

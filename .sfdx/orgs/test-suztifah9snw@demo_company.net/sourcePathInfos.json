@@ -314,15 +314,15 @@
     [
         "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItem\\OppSummaryItemController.js",
             "isDirectory": false,
+            "size": 1009,
+            "modifiedTime": 1516091563000,
+            "changeTime": 1516091563884,
+            "contentHash": "e14300ac99fa02c7fc2c851ecc3317a5ef030f41",
             "isMetadataFile": false,
-            "size": 949,
-            "modifiedTime": 1516032051000,
-            "changeTime": 1516032051743,
-            "isWorkspace": false,
-            "contentHash": "6c2e110a59a94d13f036e95f541f03bf9ed60ab7"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1719,10 +1719,10 @@
             "sourcePath": "C:\\Users\\ddrax76\\salesrepz\\force-app\\main\\default\\aura\\OppSummaryItemDetails\\OppSummaryItemDetails.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 218,
-            "modifiedTime": 1516032057000,
-            "changeTime": 1516032057240,
-            "contentHash": "a012e06bde09adf409399858f661b15c9486a9af"
+            "size": 473,
+            "modifiedTime": 1516092990632,
+            "changeTime": 1516092990632,
+            "contentHash": "bc88387577c57464aed93f17828b6f58b0f9efe1"
         }
     ],
     [
